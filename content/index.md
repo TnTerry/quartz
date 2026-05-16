@@ -1,7 +1,7 @@
 ---
-title: Welcome
+title: Welcome to Terry's Knowledge Base
 ---
 
-This is my digital garden — a collection of notes, ideas, and knowledge. Built with [Quartz](https://quartz.jzhao.xyz/).
+欢迎来到Terry的个人知识库。该知识库使用 [Quartz](https://quartz.jzhao.xyz/) 搭建。
 
-Start exploring by browsing the left sidebar or using the search bar.
+这里收纳了一些我学习、工作中总结的笔记。欢迎进行查阅。
